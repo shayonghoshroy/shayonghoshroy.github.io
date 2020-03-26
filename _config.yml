@@ -112,9 +112,9 @@ author:
   bio              : "My Personal Home on the Internet"
   location         : "Columbia, SC"
   email            : "sghoshroy21@gmail.com"
-  github            : "https://github.com/shayonghoshroy"
-  linkedin           : "https://www.linkedin.com/in/shayon-ghoshroy/"
-  youtube           : "https://www.youtube.com/channel/UC_EHwxqblPlMk8OqbQ26_vA"
+  github           : "https://github.com/shayonghoshroy"
+  linkedin         : "https://www.linkedin.com/in/shayon-ghoshroy/"
+  youtube          : "https://www.youtube.com/channel/UC_EHwxqblPlMk8OqbQ26_vA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -299,7 +299,7 @@ defaults:
 # _pages
   - scope:
       path: ""
-      type: pages
+      type: Pages
     values:
       layout: single
       author_profile: true
