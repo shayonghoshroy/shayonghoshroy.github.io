@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
+layout: single
 header:
   image: "/images/camp.jpg"
 ---
