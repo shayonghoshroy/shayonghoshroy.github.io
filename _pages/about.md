@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "A little bit about me..."
 permalink: /about/
 author_profile: true
 layout: single
