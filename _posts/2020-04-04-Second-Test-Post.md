@@ -27,7 +27,7 @@ Here's a numbered list:
 3. Third
 
 Ruby Code Block:
-```Ruby
+```ruby
 puts("hello from ruby")
 ```
 Here's some inline code `x+y`.
