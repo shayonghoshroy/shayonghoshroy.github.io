@@ -34,3 +34,5 @@ Here's an image using Kramdown:
 
 Here's some math:
 $$z = x + y$$
+
+You can also do it inline $$z = x + y$$.
