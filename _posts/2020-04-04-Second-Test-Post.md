@@ -31,3 +31,9 @@ Ruby Code Block:
 puts("hello from ruby")
 ```
 Here's some inline code `x+y`.
+
+Here's an image added using HTML:
+<img src="{{ site.url }}{{ site.baseurl }}/images/ruby.jpg" alt="Ruby Logo" class="full">
+
+Here's an image added using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/ruby.jpg)
