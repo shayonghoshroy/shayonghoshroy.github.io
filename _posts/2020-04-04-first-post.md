@@ -5,6 +5,7 @@ tags: [jekyll, blog, programming]
 header:
   image: "/images/error.jpg"
 excerpt: "Test Post, First Vlog, Jekyll"
+mathjax: "true"
 ---
 # H1 Heading
 ## H2 Headings
@@ -30,3 +31,6 @@ Here's an image with html:
 
 Here's an image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/ruby.jpg)
+
+Here's some math:
+$$z = x + y$$
