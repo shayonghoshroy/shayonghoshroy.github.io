@@ -11,10 +11,10 @@ excerpt: ""
 ## SECOND LARGEST HEADER
 ### THIRD LARGEST HEADER
 
-An example of normal sized text.
-Here's some *italics*.
-Here's some **bold** text.
-Here's a [link](https://github.com/).
+An example of normal sized text.  
+Here's some *italics*.  
+Here's some **bold** text.  
+Here's a [link](https://github.com/).  
 
 Here's a bulleted list:
 * First item

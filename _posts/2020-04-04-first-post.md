@@ -17,3 +17,13 @@ Here's a bulleted list:
 * First item
 + Second item
 - Third item
+
+Ruby Code Block:
+```ruby
+puts("hello from ruby")
+```
+
+Here's some inline code `x+y`.
+
+Here's an image with html:
+<img src="{{ site.url }}{{ site.baseurl }}/images/ruby.jpg" alt="pic of ruby logo" class="full">
