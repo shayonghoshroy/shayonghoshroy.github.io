@@ -27,3 +27,6 @@ Here's some inline code `x+y`.
 
 Here's an image with html:
 <img src="{{ site.url }}{{ site.baseurl }}/images/ruby.jpg" alt="pic of ruby logo" class="full">
+
+Here's an image using Kramdown:
+![alt]({{ site.url }}{{ site.baseurl }}/images/ruby.jpg)
