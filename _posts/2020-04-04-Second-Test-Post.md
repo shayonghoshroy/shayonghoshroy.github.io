@@ -5,6 +5,7 @@ tags: [Jekyll, markdown file]
 header:
   image: "/images/meme.jpg"
 excerpt: ""
+mathjax: true
 ---
 
 # LARGEST HEADER
@@ -37,3 +38,8 @@ Here's an image added using HTML:
 
 Here's an image added using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/ruby.jpg)
+
+Here's some math:
+$$z=x+y$$
+
+You can also do it inline $$z=x+y$$.
