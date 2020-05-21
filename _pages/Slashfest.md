@@ -7,6 +7,6 @@ header:
     image: "/images/bg.png"
 ---
 
-{% for post in site.posts %}
+{% for log in site.logs %}
     {% include archive-single.html %}
 {% endfor %}
