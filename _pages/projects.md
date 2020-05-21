@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Project Posts by Tags"
+title: "Checkout how I created some of my projects!"
 author_profile: true
 header:
-  image: "/images/programming.jpeg"
+  image: "/images/banner.jpg"
 ---
 
 {% for post in site.posts %}
