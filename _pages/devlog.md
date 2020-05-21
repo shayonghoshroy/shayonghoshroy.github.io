@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /devlog/
 title: "Checkout how I created some of my projects!"
 author_profile: true
 header:
