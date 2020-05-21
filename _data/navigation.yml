@@ -4,7 +4,7 @@ main:
     url: /projects/
   - title: "About"
     url: /about/
-- title: "Slashfest"
+  - title: "Slashfest"
     url: /slashfest/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
