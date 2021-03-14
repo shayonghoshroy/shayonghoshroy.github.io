@@ -1,7 +1,7 @@
 # main links
 main:
- # - title: "Devlog"
-    #url: /devlog/
+  - title: "Devlog"
+    url: /devlog/
   - title: "About"
     url: /about/
   # - title: "About"
